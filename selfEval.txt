@@ -1,0 +1,92 @@
+I am Manoj Kumar, Senior Analyst: Business Consulting for Team Innovation. I report from NCR site. This year has been really a steep learning curve for me. From doing research on various use cases like Text summarization, Emotional Intelligence, Key word Analysisto name a few, building POCs around the same to finally seeing them live working on real life dataset, the journey has been both challenging and full of innovation.
+
+Funcational Contributions:
+
+1. Global Fraud Complaint Detection
+2.Whisper Model for speech to text
+3.HPD47 data Exploration
+4. NPS data classification
+5. Summary model for conversation summarization
+
+
+Non functional Contributions:
+1. Member of Fun and fitness Taskforce
+2. Participated in Hackathon organised by HSBC
+3. Delivered 4 sessions in  Thursday Talk
+
+Innovation/Exploration/Research and Development:
+1. Explored Automl framework like h2o and pycaret
+2.Explored various open source model for summarizationa, emotional intelligence and chatbot
+3. Natural language processing with focus on natural language understanding
+4. Successfully completed many trainings cource on Data Science, AI through Degreed by HSBC
+
+
+My Expectation in 2024
+------------------------------------------------------------------
+**Self-Evaluation Report - Manoj Kumar**
+
+*Introduction:*
+
+I am Manoj Kumar, Senior Analyst: Business Consulting for Team Innovation, reporting from the NCR site. Reflecting on the past year, I have undergone a transformative journey, engaging in diverse projects and significantly contributing to our team's success. The year has been marked by a steep learning curve, filled with challenges and innovation.
+
+*Functional Contributions:*
+
+1. **Global Fraud Complaint Detection:**
+   - Successfully researched and implemented strategies for global fraud complaint detection, showcasing a proactive approach in safeguarding the organization against potential risks.
+
+2. **Whisper Model for Speech to Text:**
+   - Played a pivotal role in developing the Whisper Model, demonstrating a proficiency in cutting-edge technologies and contributing to advancements in speech-to-text capabilities.
+
+3. **HPD47 Data Exploration:**
+   - Led the exploration of HPD47 data, showcasing a deep understanding of data analysis and contributing valuable insights that have informed strategic decision-making.
+
+4. **NPS Data Classification:**
+   - Demonstrated expertise in data classification by leading the NPS data classification project, ensuring accurate and efficient handling of crucial customer feedback data.
+
+5. **Summary Model for Conversation Summarization:**
+   - Successfully developed a summary model for conversation summarization, showcasing innovation and contributing to improved efficiency in information processing.
+
+*Non-Functional Contributions:*
+
+1. **Member of Fun and Fitness Taskforce:**
+   - Actively contributed to the team's well-being by being a member of the Fun and Fitness Taskforce, fostering a positive work culture.
+
+2. **Participation in HSBC Hackathon:**
+   - Engaged in the HSBC Hackathon, demonstrating a commitment to staying at the forefront of industry trends and incorporating innovative solutions into our projects.
+
+3. **Thursday Talk Sessions:**
+   - Delivered four insightful sessions in the Thursday Talk series, contributing to knowledge sharing within the team and fostering a culture of continuous learning.
+
+*Future Expectations (2024):*
+
+Looking ahead to 2024, my expectations revolve around continuing this journey of learning and contributing with even greater enthusiasm. I aspire to take on more challenging projects, further enhancing my skills and making substantial contributions to our team's success. My commitment to innovation and dedication to both functional and non-functional aspects of our work remain steadfast, and I look forward to the opportunities that lie ahead.
+
+In conclusion, the past year has been a testament to my adaptability, innovation, and commitment to the team's success. I am excited about the potential for growth and development in the coming year, and I am eager to contribute my best to our collective success.
+
+*Manoj Kumar  
+Senior Analyst: Business Consulting  
+Team Innovation  
+NCR Site*
+
+
+-----------------------
+*Innovation/Exploration/Research and Development:*
+
+1. **Exploration of AutoML Frameworks:**
+   - Engaged in a comprehensive exploration of AutoML frameworks such as h2o and pycaret, demonstrating a commitment to staying at the forefront of automated machine learning technologies. This initiative aimed to streamline and enhance our model development processes, contributing to increased efficiency and effectiveness.
+
+2. **Open Source Models for Advanced Use Cases:**
+   - Explored a myriad of open-source models for diverse applications, including summarization, emotional intelligence, chatbot development, and specifically, delved into the capabilities of ChaGPT. This initiative showcased a dedication to researching cutting-edge solutions and leveraging external innovations to enhance our own projects.
+
+3. **Natural Language Processing (NLP) Focus:**
+   - Committed to advancing expertise in Natural Language Processing, with a particular focus on natural language understanding. This exploration aligns with the industry's evolving demands and positions our team to excel in projects requiring a nuanced understanding of human language.
+
+4. **Continuous Learning through Training Courses:**
+   - Successfully completed numerous training courses on Data Science and AI through Degreed by HSBC. This commitment to continuous learning reflects a proactive approach to staying abreast of industry advancements and acquiring new skills to contribute to the team's success.
+
+These initiatives in innovation, exploration, and research and development underline my dedication to pushing the boundaries of our capabilities. By integrating new technologies, exploring open-source solutions, and investing in personal development, I aim to contribute to the team's culture of innovation and ensure that we remain leaders in our field.
+
+*Manoj Kumar  
+Senior Analyst: Business Consulting  
+Team Innovation  
+NCR Site*
